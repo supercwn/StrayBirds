@@ -116,7 +116,7 @@ disqus:
 #################################### global configure #######################################
 
 username: msupercwn
-baseurl: /StrayBirds
+baseurl: /supernan
 markdown: redcarpet
 safe: false
 highlighter: pygments
